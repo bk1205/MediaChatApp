@@ -24,7 +24,7 @@ function Login() {
           alt=""
         />
         <div className="login__text">
-          <h1>Sign in to WhatsApp</h1>
+          <h1>Sign in to ChatApp</h1>
         </div>
         <Input
           type="text"
